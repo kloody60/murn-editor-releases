@@ -1,0 +1,11 @@
+{
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/kloody60/murn-editor-releases/main/android/releases/1.0.6/MurnVideo-1.0.6.apk",
+  "sha256": "e1bc62912a4f83f06922aba3f80459cc6860fdf0ae6a16dae0c9a70b5f5d0900",
+  "sizeBytes": 46398507,
+  "minSdk": 29,
+  "mandatory": false,
+  "notes": "نسخة تجريبية للتأكد أن التحديث من داخل التطبيق يعمل. إن وصلك هذا التحديث فكل شيء سليم.",
+  "notes_en": "Test build to confirm the in-app update works. If you received this update, everything is fine."
+}
